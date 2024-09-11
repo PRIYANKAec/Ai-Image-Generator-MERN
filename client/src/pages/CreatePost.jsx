@@ -21,7 +21,7 @@ const CreatePost = () => {
     if(form.prompt) {
       try {
         setGeneratingImg(true);
-        const response = await fetch("https://ai-image-generator-cqm2.onrender.com//api/v1/dalle", 
+        const response = await fetch("https://ai-image-generator-cqm2.onrender.com/api/v1/dalle", 
           {
           method: "POST",
           headers: {
