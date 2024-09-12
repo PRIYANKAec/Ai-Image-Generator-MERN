@@ -2,6 +2,8 @@
 
 This project deal with the openai API key , Cloudinary for storing the images and uses MongoDB as an backend technology
 
+![Screenshot from 2024-09-12 11-14-28](https://github.com/user-attachments/assets/929fc863-e347-495e-92f2-b90e8fb42769)
+![Screenshot from 2024-09-12 11-12-55](https://github.com/user-attachments/assets/5cab0941-12b9-4530-876c-de451e5aa1aa)
 
 ## Tech Stacks
 
